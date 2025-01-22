@@ -7,6 +7,6 @@
 
 🎖️ IIT Roorkee Professional Certification in Business Analytics & Generative AI - 2025
 
-📊 Personal Project Highlights: Generated employee performance reports in SQL | Created an interactive sales analytics dashboard for a confectionery-industry company on Power BI | Visualised key call centre metrics using the full capabilities of Excel 365 | Conducted exploratory data analysis on a large dataset from the apparel industry using Jupyter | Used AWS Glue to streamline data processing workflows and derive actionable insights from sales and product data. 
+📊 Personal Project Highlights: Generated employee performance reports in **SQL** | Created an interactive sales analytics dashboard for a confectionery-industry company on **Power BI** | Visualised key call centre metrics using the full capabilities of **Excel 365** | Conducted exploratory data analysis on a large dataset from the apparel industry using **Jupyter** | Used **AWS Glue** to streamline data processing workflows and derive actionable insights from sales and product data. 
 
 🌟 What Drives Me: My career has taken me across 3 countries spanning several roles underpinned by analytics. I'm dedicated to solving complex business problems through data.
