@@ -1,7 +1,5 @@
 ## Hello, my name is Amit Gengaje 👋
 
-🎯 IIT Certified Data Analyst | GenAI Expertise | Transform Trends Into Triumphs
-
 💼 About Me: I analyse today's data to drive tomorrow's strategic decisions. I have expertise in collecting, wrangling, analysing and visualising data to derive actionable insights. I have been achieving business growth for various enterprises for over 5+ years.  
 
 🛠️ Skills & Tools for Data Analysis:
