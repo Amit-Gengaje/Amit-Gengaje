@@ -5,7 +5,7 @@
 💼 About Me: I analyse today's data to drive tomorrow's strategic decisions. I have expertise in collecting, wrangling, analysing and visualising data to derive actionable insights. I have been achieving business growth for various enterprises for over 5+ years.  
 
 🛠️ Skills & Tools for Data Analysis:
-  SQL | Power BI | Tableau | Pandas | Matplotlib | Seaborn | NumPy | Advanced Excel | Data Visualisation | Data Wrangling | ETL | R | Data Cleaning & Preprocessing| EDA | Scikit-Learn | Dashboards | Python | Jupyter | AWS Glue | ETL Optimization | Real-Time & Batch ETL | Workflow Automation | Data Mapping | Logging & Monitoring | Prompt Engineering | ChatGPT Fine-tuning | AI-Optimized ETL Processes | Regression | Hypothesis Testing | A/B Testing 
+  SQL | Power BI | Tableau | Pandas | Matplotlib | Seaborn | NumPy | Advanced Excel | Data Visualisation | Data Wrangling | ETL | R | Exploratory Data Analysis | Scikit-Learn | Dashboards | Python | Jupyter | AWS Glue | ETL Optimization | Real-Time & Batch ETL | Workflow Automation | Data Mapping | Logging & Monitoring | Prompt Engineering | ChatGPT Fine-tuning | AI-Optimized ETL Processes | Regression | Hypothesis Testing | A/B Testing 
 
 🎖️ IIT Roorkee Professional Certification in Business Analytics & Generative AI - 2025
 
